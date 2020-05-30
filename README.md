@@ -113,7 +113,10 @@
       - jobs@apache.org
 4. Release
    - steps [here](https://dolphinscheduler.apache.org/zh-cn/docs/development/release.html)  
+     - checkout list [here](https://cwiki.apache.org/confluence/display/INCUBATOR/Incubator+Release+Checklist)
    - vote
+     - to dev for ppmc
+     - to general for impc
    - can download at apache maven 
 5. Retire
    - no maintainer for a long time
